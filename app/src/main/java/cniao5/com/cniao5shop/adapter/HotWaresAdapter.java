@@ -14,10 +14,7 @@ import java.util.List;
 import cniao5.com.cniao5shop.R;
 import cniao5.com.cniao5shop.bean.Wares;
 
-/**
- * Created by <a href="http://www.cniao5.com">菜鸟窝</a>
- * 一个专业的Android开发在线教育平台
- */
+
 public class HotWaresAdapter extends RecyclerView.Adapter<HotWaresAdapter.ViewHolder>  {
 
 
